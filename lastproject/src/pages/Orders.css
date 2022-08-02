@@ -1,0 +1,17 @@
+#menu{
+    font-family: 'Lobster', cursive;
+    font-size: 24px;
+
+
+
+}
+.card{
+    text-align: right;
+}
+.btn-light {
+    font-weight: bold;
+    font-size: 24px;
+}
+.btn-light:hover{
+background-color: #ddd;
+}

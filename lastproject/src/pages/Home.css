@@ -1,0 +1,27 @@
+#home {
+    background-image: url("https://sicilia-jaffa.co.il/wp-content/uploads/2019/12/IMG_0238.jpg");
+    height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+}
+.header {
+    padding-top: 10%;
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+    color: antiquewhite;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+} 
+.subheader {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    color: antiquewhite;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+} 
+.card {
+    margin-top: 1%;
+    margin-right: auto;
+    margin-left: auto;
+}
